@@ -1,0 +1,15 @@
+D:\Projects\Mods\NitroForAll\NitroForAll\bin\Release\NitroForAll.dll
+D:\Projects\Mods\NitroForAll\NitroForAll\bin\Release\NitroForAll.pdb
+D:\Projects\Mods\NitroForAll\NitroForAll\bin\Release\NitroForAll.xml
+D:\Projects\Mods\NitroForAll\NitroForAll\bin\Release\INMNativeUI.dll
+D:\Projects\Mods\NitroForAll\NitroForAll\bin\Release\Metadata.dll
+D:\Projects\Mods\NitroForAll\NitroForAll\bin\Release\ScriptHookVDotNet2.dll
+D:\Projects\Mods\NitroForAll\NitroForAll\bin\Release\Metadata.pdb
+D:\Projects\Mods\NitroForAll\NitroForAll\bin\Release\ScriptHookVDotNet2.xml
+D:\Projects\Mods\NitroForAll\NitroForAll\obj\Release\NitroForAll.vbprojResolveAssemblyReference.cache
+D:\Projects\Mods\NitroForAll\NitroForAll\obj\Release\NitroForAll.Resources.resources
+D:\Projects\Mods\NitroForAll\NitroForAll\obj\Release\NitroForAll.vbproj.GenerateResource.Cache
+D:\Projects\Mods\NitroForAll\NitroForAll\obj\Release\NitroForAll.dll
+D:\Projects\Mods\NitroForAll\NitroForAll\obj\Release\NitroForAll.xml
+D:\Projects\Mods\NitroForAll\NitroForAll\obj\Release\NitroForAll.pdb
+D:\Projects\Mods\NitroForAll\NitroForAll\bin\Release\INMNativeUI.pdb

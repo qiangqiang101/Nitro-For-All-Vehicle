@@ -1,0 +1,13 @@
+D:\Projects\Mods\NitroForAll\NitroForAll\bin\Debug\NitroForAll.dll
+D:\Projects\Mods\NitroForAll\NitroForAll\bin\Debug\NitroForAll.pdb
+D:\Projects\Mods\NitroForAll\NitroForAll\bin\Debug\NitroForAll.xml
+D:\Projects\Mods\NitroForAll\NitroForAll\bin\Debug\Metadata.dll
+D:\Projects\Mods\NitroForAll\NitroForAll\bin\Debug\ScriptHookVDotNet2.dll
+D:\Projects\Mods\NitroForAll\NitroForAll\bin\Debug\Metadata.pdb
+D:\Projects\Mods\NitroForAll\NitroForAll\bin\Debug\ScriptHookVDotNet2.xml
+D:\Projects\Mods\NitroForAll\NitroForAll\obj\Debug\NitroForAll.vbprojResolveAssemblyReference.cache
+D:\Projects\Mods\NitroForAll\NitroForAll\obj\Debug\NitroForAll.Resources.resources
+D:\Projects\Mods\NitroForAll\NitroForAll\obj\Debug\NitroForAll.vbproj.GenerateResource.Cache
+D:\Projects\Mods\NitroForAll\NitroForAll\obj\Debug\NitroForAll.dll
+D:\Projects\Mods\NitroForAll\NitroForAll\obj\Debug\NitroForAll.xml
+D:\Projects\Mods\NitroForAll\NitroForAll\obj\Debug\NitroForAll.pdb
